@@ -26,12 +26,27 @@ This is a modern, responsive portfolio website that showcases my professional sk
 - Social media integration
 
 ## Technologies Used
-- .NET Core, ASP.NET MVC, Entity Framework, C#
-- Python, ML.NET, TensorFlow, PyTorch
-- JavaScript, TypeScript, React, Angular, Blazor
-- SQL Server, Oracle SQL
-- HTML5, CSS3
-- Git, Visual Studio, VS Code
+### Core Technologies
+- **HTML5** - For structure and content
+- **CSS3** - For styling, including:
+  - Flexbox and Grid layouts
+  - Custom CSS variables
+  - Responsive design
+  - Animations and transitions
+- **Vanilla JavaScript** - For interactivity, including:
+  - Smooth scrolling
+  - Form handling
+  - Scroll animations
+  - DOM manipulation
+
+### External Resources
+- **Font Awesome (v6.4.0)** - For icons
+- **Google Fonts**
+  - Poppins (general text)
+  - Roboto Mono (code blocks)
+
+### Hosting & Deployment
+- **Netlify** - For hosting and continuous deployment
 
 ## Project Structure
 ```
