@@ -4,12 +4,18 @@
 
 ## About Me
 
-Hello! I'm **Toheed Asghar**, a Backend Engineer and AI/ML enthusiast based in Lahore, Pakistan. I am passionate about building robust systems and exploring the frontiers of artificial intelligence. My expertise spans .NET backend development, distributed systems, and machine learning. I thrive in collaborative environments and am always eager to learn new technologies to deliver innovative solutions.
+Hi, I'm **Toheed Asghar**.I am a highly motivated Software Engineer with a passion for learning. My interests are in Back-end engineering and Artificial Intelligence/Machine Learning. I graduated from Punjab University College of Information Technology (PUCIT) with a Bachelor of Science in Computer Science.
+
+I am a Quick Learner with exceptional communication, problem solving, and leadership skills.
 
 - **Role:** Backend Engineer & AI/ML Enthusiast
 - **Location:** Lahore, Pakistan
 - **Email:** toheedasghar@hotmail.com
 - **Website:** [toheedasghar.netlify.app](https://toheedasghar.netlify.app/)
+
+## Portfolio Preview
+![Portfolio Homepage](homepage.png)
+*A preview of my portfolio website's homepage*
 
 ## Overview
 This is a modern, responsive portfolio website that showcases my professional skills, experience, and projects. It provides a way for potential employers or clients to get in touch and explore my work in backend engineering and AI/ML.
