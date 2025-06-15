@@ -77,7 +77,7 @@ To run this portfolio locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/ToheedAsghar/Portfolio.git
    cd portfolio
    ```
 2. Open `index.html` in your browser or use a local server for development.
